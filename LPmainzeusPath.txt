@@ -156,7 +156,7 @@
         start: Date.now(),
       };
       var dataLayer = window.dataLayer || [];
-      var pdpTrackingData ="{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://res.cloudinary.com/dmazrlkal/image/upload/v1756019240/mainzeus77_ellhi8.png","v_voya":1,"brand_name":"DUNIATOTO","brand_id":"842","pdt_sku":9978447445,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":2255234788,"pdt_name":"MAINZEUS: Situs Slot Gacor 2025 Scatter Mahjong Hitam Mudah Maxwin","page":{"regCategoryId":"002147001474","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=9978447445_ID-2255234788&_p_prod=9978447445&_p_sku=2255234788&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}";
+      var pdpTrackingData ="{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://res.cloudinary.com/dmazrlkal/image/upload/v1756019240/mainzeus77_ellhi8.png","v_voya":1,"brand_name":"MAINZEUS","brand_id":"842","pdt_sku":9978447445,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":2255234788,"pdt_name":"MAINZEUS: Situs Slot Gacor 2025 Scatter Mahjong Hitam Mudah Maxwin","page":{"regCategoryId":"002147001474","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=9978447445_ID-2255234788&_p_prod=9978447445&_p_sku=2255234788&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}";
       try {
         pdpTrackingData = JSON.parse(pdpTrackingData);
         pdpTrackingData.v_voya = false;
@@ -729,7 +729,7 @@
               <div class="logo-bar-content header-content">
                 <div class="lzd-logo-content">
                   <a href="https://eatmytrip.com/contact-us/" data-spm="dhome">
-                    <img src="https://res.cloudinary.com/djpaotpl4/image/upload/v1753391830/logo_duniatoto_ox2puj.png" alt="MAINZEUS: Situs Slot Gacor 2025 Scatter Mahjong Hitam Mudah Maxwin" style="width: min-content;">
+                    <img src="https://res.cloudinary.com/dmazrlkal/image/upload/v1755928257/imgLogo_20245805155805_xtpsqj.webp" alt="MAINZEUS: Situs Slot Gacor 2025 Scatter Mahjong Hitam Mudah Maxwin" style="width: min-content;">
                   </a>
                 </div>
                 <div class="lzd-nav-search " data-spm="search">
