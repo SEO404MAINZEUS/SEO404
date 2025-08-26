@@ -2,12 +2,12 @@
 <html lang="id-ID" xmlns:wormhole="http://www.w3.org/1999/xhtml">
 
 <head>
-  <base href="https://foylawoffice.com/contact-us/" />
+  <base href="https://foylawoffice.com/" />
   <title>EMPIRE88 Login Terbaru 2025 | Situs Empire88 Resmi & Link Alternatif Jalan Masuk Empire 88</title>
   <meta content="o" name="description" />
   <meta content="width=device-width, initial-scale=1.0, user-scalable=no" name="viewport" />
   <meta content="index, follow" name="robots" />
-  <meta content="https://foylawoffice.com/contact-us/" name="og:url" />
+  <meta content="https://foylawoffice.com/" name="og:url" />
   <meta content="EMPIRE88 Login Terbaru 2025 | Situs Empire88 Resmi & Link Alternatif Jalan Masuk Empire 88" name="og:title" />
   <meta content="product" name="og:type" />
   <meta content="EMPIRE88 login mudah dan cepat melalui situs empire88 resmi dengan link alternatif empire88 terbaru sebagai jalan masuk empire88 terpercaya hadir untuk memberikan akses login empire88 aman nyaman serta stabil tanpa hambatan dengan layanan situs empire88 terbaik." name="og:description" />
@@ -15,7 +15,7 @@
   <meta name="google-site-verification" content="PGnou8XxyL6Zzu470z0zgbW43vzDrWJ9g_aeIJ0x8zs" />
   <link href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" rel="manifest" />
   <link href="https://res.cloudinary.com/dmazrlkal/image/upload/v1756206627/icon_empire_w3ejpk.png" rel="shortcut icon" />
-  <link href="https://foylawoffice.com/contact-us/" rel="canonical" />
+  <link href="https://foylawoffice.com/" rel="canonical" />
   <link href="https://kitalibashabis.pages.dev/amp/" rel="amphtml" />
   <link as="image" href="https://res.cloudinary.com/dmazrlkal/image/upload/v1756207158/assets_task_01jw0hbd8fefyv1c12y3ex4q1j_1748069949_img_1_wrbrzt.webp" rel="preload" />
   <link href="https://cart.lazada.co.id" rel="preconnect dns-prefetch" />
@@ -468,7 +468,7 @@
     </script>
   </div>
   <script type="application/ld+json">
-  {"@type":"Product","@context":"https://schema.org","name":"EMPIRE88 Login Terbaru 2025 | Situs Empire88 Resmi & Link Alternatif Jalan Masuk Empire 88","image":"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg","category":"Televisi & Video","brand":{"@type":"Brand","name":"Samsung","url":"https://foylawoffice.com/contact-us/"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"EMPIRE88 login mudah dan cepat melalui situs empire88 resmi dengan link alternatif empire88 terbaru sebagai jalan masuk empire88 terpercaya hadir untuk memberikan akses login empire88 aman nyaman serta stabil tanpa hambatan dengan layanan situs empire88 terbaik.","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","offers":{"@type":"Offer","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
+  {"@type":"Product","@context":"https://schema.org","name":"EMPIRE88 Login Terbaru 2025 | Situs Empire88 Resmi & Link Alternatif Jalan Masuk Empire 88","image":"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg","category":"Televisi & Video","brand":{"@type":"Brand","name":"Samsung","url":"https://foylawoffice.com/"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"EMPIRE88 login mudah dan cepat melalui situs empire88 resmi dengan link alternatif empire88 terbaru sebagai jalan masuk empire88 terpercaya hadir untuk memberikan akses login empire88 aman nyaman serta stabil tanpa hambatan dengan layanan situs empire88 terbaik.","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","offers":{"@type":"Offer","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
   </script>
   <script data-rh="true" type="application/ld+json">
   {
@@ -478,35 +478,35 @@
             "@type": "ListItem",
             "position": 1,
             "item": {
-              "@id": "https://foylawoffice.com/contact-us/",
+              "@id": "https://foylawoffice.com/",
               "name": "EMPIRE88"
             }
           }, {
             "@type": "ListItem",
             "position": 2,
             "item": {
-              "@id": "https://foylawoffice.com/contact-us/",
+              "@id": "https://foylawoffice.com/",
               "name": "LOGIN EMPIRE88"
             }
           }, {
             "@type": "ListItem",
             "position": 3,
             "item": {
-              "@id": "https://foylawoffice.com/contact-us/",
+              "@id": "https://foylawoffice.com/",
               "name": "LINK LOGIN EMPIRE88"
             }
           }, {
             "@type": "ListItem",
             "position": 4,
             "item": {
-              "@id": "https://foylawoffice.com/contact-us/",
+              "@id": "https://foylawoffice.com/",
               "name": "Situs EMPIRE88 LOGIN"
             }
           }, {
             "@type": "ListItem",
             "position": 5,
             "item": {
-              "@id": "https://foylawoffice.com/contact-us/",
+              "@id": "https://foylawoffice.com/",
               "name": "EMPIRE88 Login Terbaru 2025 | Situs Empire88 Resmi & Link Alternatif Jalan Masuk Empire 88"
             }
           }]
@@ -550,7 +550,7 @@
                   <a class="highlight" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0" href="https://yida.alibaba-inc.com/alibaba/web/APP_NZEYXSPGPBMKO7Z1LCE5/inst/homepage/?spm=a2o42.home.header.d0.654346b5QeptXc#/" target="_blank">INTERNAL FEEDBACK</a>
                 </div>
                 <div class="top-links-item" id="topActionFeedback">
-                  <a class="highlight" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback" href="https://foylawoffice.com/contact-us/" target="_blank">EMPIRE88 LOGIN</a>
+                  <a class="highlight" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback" href="https://foylawoffice.com/" target="_blank">EMPIRE88 LOGIN</a>
                 </div>
                 <div class="top-links-item orange" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1" id="topActionDownload">
                   <span>EMPIRE88</span>
@@ -591,10 +591,10 @@
                           <div class="error-message" id="topActionDownloadErrorMsg">
                           </div>
                           <div class="app-stores">
-                            <a class="store-link" href="https://foylawoffice.com/contact-us/">
+                            <a class="store-link" href="https://foylawoffice.com/">
                               <i class="app-apple"></i>
                             </a>
-                            <a class="store-link" href="https://foylawoffice.com/contact-us/">
+                            <a class="store-link" href="https://foylawoffice.com/">
                               <i class="app-google"></i>
                             </a>
                           </div>
@@ -604,7 +604,7 @@
                   </div>
                 </div>
                 <div class="top-links-item" id="topActionSell">
-                  <a class="cyan" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2" href="https://foylawoffice.com/contact-us/">Apk EMPIRE88 LOGIN</a>
+                  <a class="cyan" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2" href="https://foylawoffice.com/">Apk EMPIRE88 LOGIN</a>
                 </div>
                 <div class="top-links-item" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3" id="topActionCustomCare">
                   <span>EMPIRE88 Login</span>
@@ -715,7 +715,7 @@
             <div class="lzd-logo-bar">
               <div class="logo-bar-content header-content">
                 <div class="lzd-logo-content">
-                  <a href="https://foylawoffice.com/contact-us/">
+                  <a href="https://foylawoffice.com/">
                     <img alt="EMPIRE88 Login Terbaru 2025 | Situs Empire88 Resmi & Link Alternatif Jalan Masuk Empire 88" loading="lazy" src="https://res.cloudinary.com/dmazrlkal/image/upload/v1756206624/empire88_p3tqqn.png" />
                   </a>
                 </div>
@@ -729,7 +729,7 @@
                     <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-config="{}" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index">
                       <div class="lzd-site-menu-nav-container">
                         <div class="lzd-site-menu-nav-category">
-                          <a href="https://foylawoffice.com/contact-us/">
+                          <a href="https://foylawoffice.com/">
                             <span class="lzd-site-menu-nav-category-text">Kategori</span>
                           </a>
                           <div class="lzd-site-menu-nav-menu">
@@ -1764,25 +1764,25 @@
                           </div>
                         </div>
                         <nav class="lzd-menu-labels">
-                          <a class="lzd-menu-labels-item" href="https://foylawoffice.com/contact-us/">
+                          <a class="lzd-menu-labels-item" href="https://foylawoffice.com/">
                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                               <img alt="EMPIRE88" class="lzd-site-nav-menu-iconfont-img" loading="lazy" src="https://res.cloudinary.com/dmazrlkal/image/upload/v1756206627/icon_empire_w3ejpk.png" />
                             </span>
                             <span class="lzd-menu-labels-item-text">EMPIRE88</span>
                           </a>
-                          <a class="lzd-menu-labels-item" href="https://foylawoffice.com/contact-us/">
+                          <a class="lzd-menu-labels-item" href="https://foylawoffice.com/">
                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                               <img alt="LOGIN EMPIRE88" class="lzd-site-nav-menu-iconfont-img" loading="lazy" src="https://res.cloudinary.com/dmazrlkal/image/upload/v1756206627/icon_empire_w3ejpk.png" />
                             </span>
                             <span class="lzd-menu-labels-item-text">LOGIN EMPIRE88</span>
                           </a>
-                          <a class="lzd-menu-labels-item" href="https://foylawoffice.com/contact-us/1">
+                          <a class="lzd-menu-labels-item" href="https://foylawoffice.com/1">
                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                               <img alt="SITUS EMPIRE88 LOGIN" class="lzd-site-nav-menu-iconfont-img" loading="lazy" src="https://res.cloudinary.com/dmazrlkal/image/upload/v1756206627/icon_empire_w3ejpk.png" />
                             </span>
                             <span class="lzd-menu-labels-item-text">SITUS EMPIRE88 LOGIN</span>
                           </a>
-                          <a class="lzd-menu-labels-item" href="https://foylawoffice.com/contact-us/">
+                          <a class="lzd-menu-labels-item" href="https://foylawoffice.com/">
                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                               <img alt="LINK LOGIN EMPIRE88" class="lzd-site-nav-menu-iconfont-img" loading="lazy" src="https://res.cloudinary.com/dmazrlkal/image/upload/v1756206627/icon_empire_w3ejpk.png" />
                             </span>
@@ -1810,7 +1810,7 @@
             <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-config="{}" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index">
               <div class="lzd-site-menu-nav-container">
                 <div class="lzd-site-menu-nav-category">
-                  <a href="https://foylawoffice.com/contact-us/">
+                  <a href="https://foylawoffice.com/">
                     <span class="lzd-site-menu-nav-category-text">Kategori</span>
                   </a>
                   <div class="lzd-site-menu-nav-menu">
@@ -2845,25 +2845,25 @@
                   </div>
                 </div>
                 <nav class="lzd-menu-labels">
-                  <a class="lzd-menu-labels-item" href="https://foylawoffice.com/contact-us/">
+                  <a class="lzd-menu-labels-item" href="https://foylawoffice.com/">
                     <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                       <img alt="EMPIRE88" class="lzd-site-nav-menu-iconfont-img" loading="lazy" src="https://res.cloudinary.com/dmazrlkal/image/upload/v1756206627/icon_empire_w3ejpk.png" />
                     </span>
                     <span class="lzd-menu-labels-item-text">EMPIRE88</span>
                   </a>
-                  <a class="lzd-menu-labels-item" href="https://foylawoffice.com/contact-us/">
+                  <a class="lzd-menu-labels-item" href="https://foylawoffice.com/">
                     <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                       <img alt="EMPIRE88 LOGIN" class="lzd-site-nav-menu-iconfont-img" loading="lazy" src="https://res.cloudinary.com/dmazrlkal/image/upload/v1756206627/icon_empire_w3ejpk.png" />
                     </span>
                     <span class="lzd-menu-labels-item-text">EMPIRE88 LOGIN</span>
                   </a>
-                  <a class="lzd-menu-labels-item" href="https://foylawoffice.com/contact-us/">
+                  <a class="lzd-menu-labels-item" href="https://foylawoffice.com/">
                     <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                       <img alt="JALAN MASUK EMPIRE88" class="lzd-site-nav-menu-iconfont-img" loading="lazy" src="https://res.cloudinary.com/dmazrlkal/image/upload/v1756206627/icon_empire_w3ejpk.png" />
                     </span>
                     <span class="lzd-menu-labels-item-text">JALAN MASUK EMPIRE88</span>
                   </a>
-                  <a class="lzd-menu-labels-item" href="https://foylawoffice.com/contact-us/">
+                  <a class="lzd-menu-labels-item" href="https://foylawoffice.com/">
                     <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                       <img alt="LINK LOGIN EMPIRE88" class="lzd-site-nav-menu-iconfont-img" loading="lazy" src="https://res.cloudinary.com/dmazrlkal/image/upload/v1756206627/icon_empire_w3ejpk.png" />
                     </span>
@@ -3226,7 +3226,7 @@
               <div class="pdp-block module" id="module_product_brand_1">
                 <div class="pdp-product-brand">
                   <span class="pdp-product-brand__name">Merek :</span>
-                  <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" href="https://foylawoffice.com/contact-us/" target="_self">empire88</a>
+                  <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" href="https://foylawoffice.com/" target="_self">empire88</a>
                   <div class="pdp-product-brand__divider">
                   </div>
                 </div>
@@ -3238,7 +3238,7 @@
               <div class="pdp-block module" id="module_product_price_1">
                 <div class="pdp-mod-product-price">
                   <p>
-                    <a href="https://foylawoffice.com/contact-us/">EMPIRE88 LOGIN</a> menjadi pilihan utama bagi para pemain yang mencari situs empire88 terpercaya karena melalui login empire88 resmi maupun link alternatif empire88 terbaru setiap jalan masuk empire88 selalu terjamin aman cepat dan stabil dengan akses tanpa batas untuk bermain di situs empire88 terbaik yang mendukung berbagai perangkat sehingga proses empire88 login tidak hanya lebih mudah tetapi juga memberikan pengalaman bermain yang nyaman aman dan terpercaya sepanjang waktu.</p>
+                    <a href="https://foylawoffice.com/">EMPIRE88 LOGIN</a> menjadi pilihan utama bagi para pemain yang mencari situs empire88 terpercaya karena melalui login empire88 resmi maupun link alternatif empire88 terbaru setiap jalan masuk empire88 selalu terjamin aman cepat dan stabil dengan akses tanpa batas untuk bermain di situs empire88 terbaik yang mendukung berbagai perangkat sehingga proses empire88 login tidak hanya lebih mudah tetapi juga memberikan pengalaman bermain yang nyaman aman dan terpercaya sepanjang waktu.</p>
                   <div bis_skin_checked="1" class="pdp-product-price">
                     <span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl">Rp 1.121</span>
                     <div bis_skin_checked="1" class="origin-block">
@@ -3377,13 +3377,13 @@
                 <a href="//group.lazada.com/en/about/">Tentang Lazada</a>
               </li>
               <li class="footer-li">
-                <a href="https://foylawoffice.com/contact-us/">Afï¬ liate Program</a>
+                <a href="https://foylawoffice.com/">Afï¬ liate Program</a>
               </li>
               <li class="footer-li">
                 <a href="//www.lazada.com/work-at-lazada/">Karir</a>
               </li>
               <li class="footer-li">
-                <a href="https://foylawoffice.com/contact-us/">Syarat &amp; Ketentuan</a>
+                <a href="https://foylawoffice.com/">Syarat &amp; Ketentuan</a>
               </li>
               <li class="footer-li">
                 <a href="https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/legal/PrivacyPolicy">Kebijakan Privasi</a>
@@ -3398,7 +3398,7 @@
                 <a href="https://www.lazada.co.id/security/">Lazada Security</a>
               </li>
               <li class="footer-li">
-                <a href="https://foylawoffice.com/contact-us/">Intellectual Property Protection</a>
+                <a href="https://foylawoffice.com/">Intellectual Property Protection</a>
               </li>
             </ul>
           </div>
