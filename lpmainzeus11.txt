@@ -2,12 +2,12 @@
 <html lang="id-ID" xmlns:wormhole="http://www.w3.org/1999/xhtml">
 
 <head>
-  <base href="https://everypills.com/contact-us/" />
+  <base href="https://everypills.com/" />
   <title>MAINZEUS: Daftar Slot Gacor 2025 Situs Slot Terpercaya & Maxwin Anti Rungkat</title>
   <meta content="MAINZEUS merupakan daftar situs slot gacor 2025 terpercaya dengan banyak pilihan permainan mudah menang peluang maxwin tinggi serta sistem login stabil untuk pengalaman bermain tanpa hambatan." name="description" />
   <meta content="width=device-width, initial-scale=1.0, user-scalable=no" name="viewport" />
   <meta content="index, follow" name="robots" />
-  <meta content="https://everypills.com/contact-us/" name="og:url" />
+  <meta content="https://everypills.com/" name="og:url" />
   <meta content="MAINZEUS: Daftar Slot Gacor 2025 Situs Slot Terpercaya & Maxwin Anti Rungkat" name="og:title" />
   <meta content="product" name="og:type" />
   <meta content="MAINZEUS merupakan daftar situs slot gacor 2025 terpercaya dengan banyak pilihan permainan mudah menang peluang maxwin tinggi serta sistem login stabil untuk pengalaman bermain tanpa hambatan." name="og:description" />
@@ -15,7 +15,7 @@
   <meta content="https://res.cloudinary.com/dmazrlkal/image/upload/v1756362068/mainzeusgacorrr_qz0hgf.png" name="og:image" />
   <link href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" rel="manifest" />
   <link href="https://res.cloudinary.com/dmazrlkal/image/upload/v1755928261/download_gy7lpd.jpg" rel="shortcut icon" />
-  <link href="https://everypills.com/contact-us/" rel="canonical" />
+  <link href="https://everypills.com/" rel="canonical" />
   <link href="https://ampmainzeus404.pages.dev/amp/" rel="amphtml" />
   <link as="image" href="https://res.cloudinary.com/dmazrlkal/image/upload/v1756362068/mainzeusgacorrr_qz0hgf.png" rel="preload" />
   <link href="https://cart.lazada.co.id" rel="preconnect dns-prefetch" />
@@ -465,7 +465,7 @@
     </script>
   </div>
   <script type="application/ld+json">
-  {"@type":"Product","@context":"https://schema.org","name":"MAINZEUS: Daftar Slot Gacor 2025 Situs Slot Terpercaya & Maxwin Anti Rungkat","image":"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg","category":"Televisi & Video","brand":{"@type":"Brand","name":"Samsung","url":"https://everypills.com/contact-us/"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"MAINZEUS merupakan daftar situs slot gacor 2025 terpercaya dengan banyak pilihan permainan mudah menang peluang maxwin tinggi serta sistem login stabil untuk pengalaman bermain tanpa hambatan.","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","offers":{"@type":"Offer","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
+  {"@type":"Product","@context":"https://schema.org","name":"MAINZEUS: Daftar Slot Gacor 2025 Situs Slot Terpercaya & Maxwin Anti Rungkat","image":"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg","category":"Televisi & Video","brand":{"@type":"Brand","name":"Samsung","url":"https://everypills.com/"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"MAINZEUS merupakan daftar situs slot gacor 2025 terpercaya dengan banyak pilihan permainan mudah menang peluang maxwin tinggi serta sistem login stabil untuk pengalaman bermain tanpa hambatan.","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","offers":{"@type":"Offer","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
   </script>
   <script data-rh="true" type="application/ld+json">
   {
@@ -475,35 +475,35 @@
             "@type": "ListItem",
             "position": 1,
             "item": {
-              "@id": "https://everypills.com/contact-us/",
+              "@id": "https://everypills.com/",
               "name": "MAINZEUS"
             }
           }, {
             "@type": "ListItem",
             "position": 2,
             "item": {
-              "@id": "https://everypills.com/contact-us/",
+              "@id": "https://everypills.com/",
               "name": "LOGIN MAINZEUS"
             }
           }, {
             "@type": "ListItem",
             "position": 3,
             "item": {
-              "@id": "https://everypills.com/contact-us/",
+              "@id": "https://everypills.com/",
               "name": "SITUS MAINZEUS"
             }
           }, {
             "@type": "ListItem",
             "position": 4,
             "item": {
-              "@id": "https://everypills.com/contact-us/",
+              "@id": "https://everypills.com/",
               "name": "LINK ALTERNATIF MAINZEUS"
             }
           }, {
             "@type": "ListItem",
             "position": 5,
             "item": {
-              "@id": "https://everypills.com/contact-us/",
+              "@id": "https://everypills.com/",
               "name": "MAINZEUS: Daftar Slot Gacor 2025 Situs Slot Terpercaya & Maxwin Anti Rungkat"
             }
           }]
@@ -547,7 +547,7 @@
                   <a class="highlight" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0" href="https://yida.alibaba-inc.com/alibaba/web/APP_NZEYXSPGPBMKO7Z1LCE5/inst/homepage/?spm=a2o42.home.header.d0.654346b5QeptXc#/" target="_blank">INTERNAL FEEDBACK</a>
                 </div>
                 <div class="top-links-item" id="topActionFeedback">
-                  <a class="highlight" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback" href="https://everypills.com/contact-us/" target="_blank">Bos88</a>
+                  <a class="highlight" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback" href="https://everypills.com/" target="_blank">Bos88</a>
                 </div>
                 <div class="top-links-item orange" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1" id="topActionDownload">
                   <span>Kaisar789</span>
@@ -588,10 +588,10 @@
                           <div class="error-message" id="topActionDownloadErrorMsg">
                           </div>
                           <div class="app-stores">
-                            <a class="store-link" href="https://everypills.com/contact-us/">
+                            <a class="store-link" href="https://everypills.com/">
                               <i class="app-apple"></i>
                             </a>
-                            <a class="store-link" href="https://everypills.com/contact-us/">
+                            <a class="store-link" href="https://everypills.com/">
                               <i class="app-google"></i>
                             </a>
                           </div>
@@ -601,7 +601,7 @@
                   </div>
                 </div>
                 <div class="top-links-item" id="topActionSell">
-                  <a class="cyan" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2" href="https://everypills.com/contact-us/">Situs Slot Gacor</a>
+                  <a class="cyan" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2" href="https://everypills.com/">Situs Slot Gacor</a>
                 </div>
                 <div class="top-links-item" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3" id="topActionCustomCare">
                   <span>Slot88</span>
@@ -712,7 +712,7 @@
             <div class="lzd-logo-bar">
               <div class="logo-bar-content header-content">
                 <div class="lzd-logo-content">
-                  <a href="https://everypills.com/contact-us/">
+                  <a href="https://everypills.com/">
                     <img alt="MAINZEUS: Daftar Slot Gacor 2025 Situs Slot Terpercaya & Maxwin Anti Rungkat" loading="lazy" src="https://res.cloudinary.com/dmazrlkal/image/upload/v1755928257/imgLogo_20245805155805_xtpsqj.webp" />
                   </a>
                 </div>
@@ -726,7 +726,7 @@
                     <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-config="{}" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index">
                       <div class="lzd-site-menu-nav-container">
                         <div class="lzd-site-menu-nav-category">
-                          <a href="https://everypills.com/contact-us/">
+                          <a href="https://everypills.com/">
                             <span class="lzd-site-menu-nav-category-text">Kategori</span>
                           </a>
                           <div class="lzd-site-menu-nav-menu">
@@ -1761,25 +1761,25 @@
                           </div>
                         </div>
                         <nav class="lzd-menu-labels">
-                          <a class="lzd-menu-labels-item" href="https://everypills.com/contact-us/">
+                          <a class="lzd-menu-labels-item" href="https://everypills.com/">
                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                               <img alt="MAINZEUS" class="lzd-site-nav-menu-iconfont-img" loading="lazy" src="https://res.cloudinary.com/dmazrlkal/image/upload/v1755928261/download_gy7lpd.jpg" />
                             </span>
                             <span class="lzd-menu-labels-item-text">MAINZEUS</span>
                           </a>
-                          <a class="lzd-menu-labels-item" href="https://everypills.com/contact-us/">
+                          <a class="lzd-menu-labels-item" href="https://everypills.com/">
                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                               <img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" loading="lazy" src="https://res.cloudinary.com/dmazrlkal/image/upload/v1755928261/download_gy7lpd.jpg" />
                             </span>
                             <span class="lzd-menu-labels-item-text">BOS88</span>
                           </a>
-                          <a class="lzd-menu-labels-item" href="https://everypills.com/contact-us/1">
+                          <a class="lzd-menu-labels-item" href="https://everypills.com/1">
                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                               <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" loading="lazy" src="https://res.cloudinary.com/dmazrlkal/image/upload/v1755928261/download_gy7lpd.jpg" />
                             </span>
                             <span class="lzd-menu-labels-item-text">EMPIRE88</span>
                           </a>
-                          <a class="lzd-menu-labels-item" href="https://everypills.com/contact-us/">
+                          <a class="lzd-menu-labels-item" href="https://everypills.com/">
                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                               <img alt="KAISAR789" class="lzd-site-nav-menu-iconfont-img" loading="lazy" src="https://res.cloudinary.com/dmazrlkal/image/upload/v1755928261/download_gy7lpd.jpg" />
                             </span>
@@ -1807,7 +1807,7 @@
             <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-config="{}" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index">
               <div class="lzd-site-menu-nav-container">
                 <div class="lzd-site-menu-nav-category">
-                  <a href="https://everypills.com/contact-us/">
+                  <a href="https://everypills.com/">
                     <span class="lzd-site-menu-nav-category-text">Kategori</span>
                   </a>
                   <div class="lzd-site-menu-nav-menu">
@@ -2848,19 +2848,19 @@
                     </span>
                     <span class="lzd-menu-labels-item-text">MAINZEUS</span>
                   </a>
-                  <a class="lzd-menu-labels-item" href="https://everypills.com/contact-us/">
+                  <a class="lzd-menu-labels-item" href="https://everypills.com/">
                     <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                       <img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" loading="lazy" src="https://res.cloudinary.com/dmazrlkal/image/upload/v1755928261/download_gy7lpd.jpg" />
                     </span>
                     <span class="lzd-menu-labels-item-text">BOS88</span>
                   </a>
-                  <a class="lzd-menu-labels-item" href="https://everypills.com/contact-us/">
+                  <a class="lzd-menu-labels-item" href="https://everypills.com/">
                     <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                       <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" loading="lazy" src="https://res.cloudinary.com/dmazrlkal/image/upload/v1755928261/download_gy7lpd.jpg" />
                     </span>
                     <span class="lzd-menu-labels-item-text">EMPIRE88</span>
                   </a>
-                  <a class="lzd-menu-labels-item" href="https://everypills.com/contact-us/">
+                  <a class="lzd-menu-labels-item" href="https://everypills.com/">
                     <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                       <img alt="Slot Online" class="lzd-site-nav-menu-iconfont-img" loading="lazy" src="https://res.cloudinary.com/dmazrlkal/image/upload/v1755928261/download_gy7lpd.jpg" />
                     </span>
@@ -3227,7 +3227,7 @@
               <div class="pdp-block module" id="module_product_brand_1">
                 <div class="pdp-product-brand">
                   <span class="pdp-product-brand__name">Merek :</span>
-                  <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" href="https://everypills.com/contact-us/" target="_self">MAINZEUS</a>
+                  <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" href="https://everypills.com/" target="_self">MAINZEUS</a>
                   <div class="pdp-product-brand__divider">
                   </div>
                 </div>
@@ -3239,8 +3239,8 @@
               <div class="pdp-block module" id="module_product_price_1">
                 <div class="pdp-mod-product-price">
                   <p>
-                    <a href="https://everypills.com/contact-us/">MAINZEUS</a> merupakan niche situs slot online yang berfokus pada pengalaman bermain slot gacor 2025 dengan peluang slot maxwin lebih besar serta jaminan keamanan dari situs slot terpercaya sehingga setiap pemain mendapatkan akses yang konsisten stabil dan mudah digunakan MAINZEUS menghadirkan berbagai pilihan permainan slot populer dengan tingkat kemenangan tinggi mendukung perangkat mobile maupun desktop dan selalu memberikan inovasi terbaru agar pemain dapat menikmati pengalaman slot online yang lebih modern profesional dan menguntungkan. Proses
-                    <a href="https://everypills.com/contact-us/">MAINZEUS LOGIN</a> dibuat mudah dan cepat sehingga pemain dapat langsung menikmati berbagai pilihan permainan slot gacor tanpa hambatan.</p>
+                    <a href="https://everypills.com/">MAINZEUS</a> merupakan niche situs slot online yang berfokus pada pengalaman bermain slot gacor 2025 dengan peluang slot maxwin lebih besar serta jaminan keamanan dari situs slot terpercaya sehingga setiap pemain mendapatkan akses yang konsisten stabil dan mudah digunakan MAINZEUS menghadirkan berbagai pilihan permainan slot populer dengan tingkat kemenangan tinggi mendukung perangkat mobile maupun desktop dan selalu memberikan inovasi terbaru agar pemain dapat menikmati pengalaman slot online yang lebih modern profesional dan menguntungkan. Proses
+                    <a href="https://everypills.com/">MAINZEUS LOGIN</a> dibuat mudah dan cepat sehingga pemain dapat langsung menikmati berbagai pilihan permainan slot gacor tanpa hambatan.</p>
                   <div bis_skin_checked="1" class="pdp-product-price">
                     <span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl">Rp.11.879</span>
                     <div bis_skin_checked="1" class="origin-block">
@@ -3379,13 +3379,13 @@
                 <a href="//group.lazada.com/en/about/">Tentang Lazada</a>
               </li>
               <li class="footer-li">
-                <a href="https://everypills.com/contact-us/">Afï¬ liate Program</a>
+                <a href="https://everypills.com/">Afï¬ liate Program</a>
               </li>
               <li class="footer-li">
                 <a href="//www.lazada.com/work-at-lazada/">Karir</a>
               </li>
               <li class="footer-li">
-                <a href="https://everypills.com/contact-us/">Syarat &amp; Ketentuan</a>
+                <a href="https://everypills.com/">Syarat &amp; Ketentuan</a>
               </li>
               <li class="footer-li">
                 <a href="https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/legal/PrivacyPolicy">Kebijakan Privasi</a>
@@ -3400,7 +3400,7 @@
                 <a href="https://www.lazada.co.id/security/">Lazada Security</a>
               </li>
               <li class="footer-li">
-                <a href="https://everypills.com/contact-us/">Intellectual Property Protection</a>
+                <a href="https://everypills.com/">Intellectual Property Protection</a>
               </li>
             </ul>
           </div>
