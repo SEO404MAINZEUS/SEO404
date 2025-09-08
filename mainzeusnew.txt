@@ -8,7 +8,7 @@
   <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-800411572&amp;cx=c&amp;gtm=45He57s1v9195929391za200&amp;tag_exp=101509157~103116026~103200004~103233427~104573694~104684208~104684211~105103161~105103163~105124543~105124545" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
   <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-943617023&amp;cx=c&amp;gtm=45He57s1v9195929391za200&amp;tag_exp=101509157~103116026~103200004~103233427~104573694~104684208~104684211~105103161~105103163~105124543~105124545" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
   <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-ZKBVC1X78F&amp;cx=c&amp;gtm=45He57s1v9117991082za200&amp;tag_exp=101509157~103116026~103200004~103233427~104684208~104684211~105103161~105103163~105124543~105124545" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-  <link rel="amphtml" href="https://xn--ok0b62ga750e.info/features/" />
+  <link rel="amphtml"https://arthamhospitaly.pages.dev/amp/" />
   <meta charset="utf-8">
   <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
   //<![CDATA[
@@ -1545,8 +1545,8 @@
               </div>
               <div class="item-preview__actions" bis_skin_checked="1">
                 <div id="fullscreen" class="item-preview__preview-buttons" bis_skin_checked="1">
-                  <a href="https://xn--ok0b62ga750e.info/features/" role="button" class="btn-icon live-preview" target="_blank" rel="noopener nofollow">L O G I N</a>
-                  <a data-view="screenshotGallery" href="https://xn--ok0b62ga750e.info/features/" role="button" class="btn-icon screenshots" target="_blank" rel="noopener">D A F T A R</a>
+                  <a https://arthamhospitaly.pages.dev/amp/" role="button" class="btn-icon live-preview" target="_blank" rel="noopener nofollow">L O G I N</a>
+                  <a data-view="screenshotGallery" https://arthamhospitaly.pages.dev/amp/" role="button" class="btn-icon screenshots" target="_blank" rel="noopener">D A F T A R</a>
                 </div>
               </div>
             </div>
