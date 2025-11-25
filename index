@@ -1,0 +1,534 @@
+<html lang="en-US" xml:lang="en-US"><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-45930669-1"></script><script src="chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/content/location/location.js" id="eppiocemhmnlbhjplcgkofciiegomcon"></script><script src="chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/libs/extend-native-history-api.js"></script><script src="chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/libs/requests.js"></script><head><script type="text/javascript" src="https://www.managementdynamics.ro/K1tgEEq6nMaHle_K02FPNoUdmdIZ9SVfrBsVEcdg65Yj73AtIR7K6hIkKOGEiqWXCjpVbgkNM1Fd3TEgg3ZmeyFRM8xGkZGjwYJVjRTaQu6cV63KyJ_mjFPR1pdfiBq0WY84ZTOOrysLQg_masPEHp0pSCRmtZmvAbRGlvTTjyU="></script><script bis_use="true" type="text/javascript" charset="utf-8" data-bis-config="[&quot;facebook.com/&quot;,&quot;twitter.com/&quot;,&quot;youtube-nocookie.com/embed/&quot;,&quot;//vk.com/&quot;,&quot;//www.vk.com/&quot;,&quot;linkedin.com/&quot;,&quot;//www.linkedin.com/&quot;,&quot;//instagram.com/&quot;,&quot;//www.instagram.com/&quot;,&quot;//www.google.com/recaptcha/api2/&quot;,&quot;//hangouts.google.com/webchat/&quot;,&quot;//www.google.com/calendar/&quot;,&quot;//www.google.com/maps/embed&quot;,&quot;spotify.com/&quot;,&quot;soundcloud.com/&quot;,&quot;//player.vimeo.com/&quot;,&quot;//disqus.com/&quot;,&quot;//tgwidget.com/&quot;,&quot;//js.driftt.com/&quot;,&quot;friends2follow.com&quot;,&quot;/widget&quot;,&quot;login&quot;,&quot;//video.bigmir.net/&quot;,&quot;blogger.com&quot;,&quot;//smartlock.google.com/&quot;,&quot;//keep.google.com/&quot;,&quot;/web.tolstoycomments.com/&quot;,&quot;moz-extension://&quot;,&quot;chrome-extension://&quot;,&quot;/auth/&quot;,&quot;//analytics.google.com/&quot;,&quot;adclarity.com&quot;,&quot;paddle.com/checkout&quot;,&quot;hcaptcha.com&quot;,&quot;recaptcha.net&quot;,&quot;2captcha.com&quot;,&quot;accounts.google.com&quot;,&quot;www.google.com/shopping/customerreviews&quot;,&quot;buy.tinypass.com&quot;,&quot;gstatic.com&quot;,&quot;secureir.ebaystatic.com&quot;,&quot;docs.google.com&quot;,&quot;contacts.google.com&quot;,&quot;github.com&quot;,&quot;mail.google.com&quot;,&quot;chat.google.com&quot;,&quot;audio.xpleer.com&quot;,&quot;keepa.com&quot;,&quot;static.xx.fbcdn.net&quot;,&quot;sas.selleramp.com&quot;,&quot;1plus1.video&quot;,&quot;console.googletagservices.com&quot;,&quot;//lnkd.demdex.net/&quot;,&quot;//radar.cedexis.com/&quot;,&quot;//li.protechts.net/&quot;,&quot;challenges.cloudflare.com/&quot;,&quot;ogs.google.com&quot;]" src="chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/executors/traffic.js"></script>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>
+		Management Dynamics in the Knowledge Economy
+					</title>
+
+	
+<meta name="description" content="Management Dynamics in the Knowledge Economy is an academic peer-reviewed publication of the College of Management (National University of Political Studies and Public Administration) and Tritonic Publishing Group">
+<meta name="generator" content="Open Journal Systems 3.3.0.19">
+<link rel="alternate" type="application/atom+xml" href="https://www.managementdynamics.ro/index.php/journal/gateway/plugin/WebFeedGatewayPlugin/atom">
+<link rel="alternate" type="application/rdf+xml" href="https://www.managementdynamics.ro/index.php/journal/gateway/plugin/WebFeedGatewayPlugin/rss">
+<link rel="alternate" type="application/rss+xml" href="https://www.managementdynamics.ro/index.php/journal/gateway/plugin/WebFeedGatewayPlugin/rss2">
+	<link rel="stylesheet" href="https://www.managementdynamics.ro/index.php/journal/$$$call$$$/page/page/css?name=stylesheet" type="text/css"><link rel="stylesheet" href="https://www.managementdynamics.ro/index.php/journal/$$$call$$$/page/page/css?name=font" type="text/css"><link rel="stylesheet" href="https://www.managementdynamics.ro/lib/pkp/styles/fontawesome/fontawesome.css?v=3.3.0.19" type="text/css"><link rel="stylesheet" href="https://www.managementdynamics.ro/public/journals/1/styleSheet.css?d=2022-03-20+16%3A03%3A56" type="text/css">
+</head>
+<body class="pkp_page_index pkp_op_index" dir="ltr" __processed_85faf8f9-5e91-46ec-b317-7b8f533231b9__="true" bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJkaXNhYmxlZCIsIkZBQ0VCT09LIjoiZGlzYWJsZWQiLCJUV0lUVEVSIjoiZGlzYWJsZWQiLCJSRURESVQiOiJkaXNhYmxlZCIsIlBJTlRFUkVTVCI6ImRpc2FibGVkIiwiSU5TVEFHUkFNIjoiZGlzYWJsZWQiLCJUSUtUT0siOiJkaXNhYmxlZCIsIkxJTktFRElOIjoiZGlzYWJsZWQiLCJDT05GSUciOiJkaXNhYmxlZCJ9LCJ2ZXJzaW9uIjoiMi4wLjMzIiwic2NvcmUiOjIwMDMzfV0=">
+
+	<div class="pkp_structure_page" bis_skin_checked="1">
+
+				<header class="pkp_structure_head" id="headerNavigationContainer" role="banner">
+						
+ <nav class="cmp_skip_to_content" aria-label="Jump to content links">
+	<a href="#pkp_content_main">Skip to main content</a>
+	<a href="#siteNav">Skip to main navigation menu</a>
+						<a href="#homepageAbout">Skip to about the journal</a>
+									<a href="#homepageIssue">Skip to the current issue</a>
+				<a href="#pkp_content_footer">Skip to site footer</a>
+</nav>
+
+			<div class="pkp_head_wrapper" bis_skin_checked="1">
+
+				<div class="pkp_site_name_wrapper" bis_skin_checked="1">
+					<button class="pkp_site_nav_toggle">
+						<span>Open Menu</span>
+					</button>
+											<h1 class="pkp_screen_reader">
+															Management Dynamics in the Knowledge Economy
+													</h1>
+										<div class="pkp_site_name" bis_skin_checked="1">
+																<a href="						https://www.managementdynamics.ro/index.php/journal/index
+					" class="is_text">Management Dynamics in the Knowledge Economy</a>
+										</div>
+				</div>
+
+				
+				<nav class="pkp_site_nav_menu" aria-label="Site Navigation">
+					<a id="siteNav"></a>
+					<div class="pkp_navigation_primary_row" bis_skin_checked="1">
+						<div class="pkp_navigation_primary_wrapper" bis_skin_checked="1">
+																				<ul id="navigationPrimary" class="pkp_navigation_primary pkp_nav_list">
+								<li class="">
+				<a href="#">
+					About the Journal
+				</a>
+									<ul class="">
+																					<li class="">
+									<a href="https://www.managementdynamics.ro/index.php/journal/c_editorial_policy">
+										Editorial Policy
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://www.managementdynamics.ro/index.php/journal/c_ethics_statement">
+										Publication Ethics
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://www.managementdynamics.ro/index.php/journal/about/privacy">
+										Privacy Statement
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://www.managementdynamics.ro/index.php/journal/about/contact">
+										Contact
+									</a>
+								</li>
+																		</ul>
+							</li>
+								<li class="">
+				<a href="https://www.managementdynamics.ro/index.php/journal/about/editorialTeam">
+					Editorial Team
+				</a>
+							</li>
+								<li class="">
+				<a href="#">
+					Journal Guidelines
+				</a>
+									<ul class="">
+																					<li class="">
+									<a href="https://www.managementdynamics.ro/index.php/journal/author_guidelines">
+										Author Guidelines
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://www.managementdynamics.ro/index.php/journal/reviewer_guidelines">
+										Guidelines for Reviewers
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://www.managementdynamics.ro/index.php/journal/c_editor_guidelines">
+										Guidelines for Editors
+									</a>
+								</li>
+																		</ul>
+							</li>
+								<li class="">
+				<a href="#">
+					Issues
+				</a>
+									<ul class="">
+																					<li class="">
+									<a href="https://www.managementdynamics.ro/index.php/journal/issue/current">
+										Current
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://www.managementdynamics.ro/index.php/journal/issue/archive">
+										Archives
+									</a>
+								</li>
+																		</ul>
+							</li>
+								<li class="">
+				<a href="https://www.managementdynamics.ro/index.php/journal/about/submissions">
+					Submission
+				</a>
+							</li>
+								<li class="">
+				<a href="https://www.managementdynamics.ro/index.php/journal/c_abstracting_indexing">
+					Abstracting &amp; Indexing
+				</a>
+							</li>
+			</ul>
+
+				
+
+																						<div class="pkp_navigation_search_wrapper" bis_skin_checked="1">
+									<a href="https://www.managementdynamics.ro/index.php/journal/search" class="pkp_search pkp_search_desktop">
+										<span class="fa fa-search" aria-hidden="true"></span>
+										Search
+									</a>
+								</div>
+													</div>
+					</div>
+					<div class="pkp_navigation_user_wrapper" id="navigationUserWrapper" bis_skin_checked="1">
+							<ul id="navigationUser" class="pkp_navigation_user pkp_nav_list">
+								<li class="profile">
+				<a href="https://www.managementdynamics.ro/index.php/journal/user/register">
+					Register
+				</a>
+							</li>
+								<li class="profile">
+				<a href="https://www.managementdynamics.ro/index.php/journal/login">
+					Login
+				</a>
+							</li>
+										</ul>
+
+					</div>
+				</nav>
+			</div><!-- .pkp_head_wrapper -->
+		</header><!-- .pkp_structure_head -->
+
+						<div class="pkp_structure_content has_sidebar" bis_skin_checked="1">
+			<div class="pkp_structure_main" role="main" bis_skin_checked="1">
+				<a id="pkp_content_main"></a>
+
+<div class="page_index_journal" bis_skin_checked="1">
+
+	
+
+			<div class="homepage_image" bis_skin_checked="1">
+			<img src="https://www.managementdynamics.ro/public/journals/1/homepageImage_en_US.png">
+		</div>
+	
+				<section class="homepage_about">
+			<a id="homepageAbout"></a>
+			<h2>About the Journal</h2>
+			<div bis_skin_checked="1">
+<p><strong>Management Dynamics in the Knowledge Economy</strong> provides relevant theoretical frameworks and the latest research on management and economics challenges in the context of the emergent knowledge economy. The journal is published <strong>quarterly</strong>. There is <strong>no processing charge</strong> to be paid by the authors. Submissions are welcomed <strong>all year round</strong>. Please, prior to submission check the <a href="https://www.managementdynamics.ro/index.php/journal/author_guidelines">Author Guidelines</a>.</p>
+<p>It is <strong>an online open-access double-blind peer review</strong> academic publication. The international editorial board is supported in selecting the most innovative research by a multi-disciplinary reviewing team. <strong>Management Dynamics in the Knowledge Economy </strong>is indexed in <strong><em>BASE, </em><em>CEEOL, DOAJ, <strong><em>EBSCO,</em></strong> EconLit, </em><em>ERIH Plus, </em></strong><strong><em>ProQuest, <strong><em>RePEc</em></strong></em></strong>, as well as other databases (please see the Abstracting &amp; Indexing section), and is under consideration of some of the most important international academic databases.</p>
+<p><strong>ISSN 2392-8042 (online)</strong></p>
+<p>© 2025 Authors. The ideas expressed in this journal are those of the authors and do not necessarily reflect those of the publication.</p>
+</div>
+		</section>
+	
+		
+				<section class="current_issue">
+			<a id="homepageIssue"></a>
+			<h2>
+				Current Issue
+			</h2>
+			<div class="current_issue_title" bis_skin_checked="1">
+				Vol. 13 No. 3 (2025): Issue 49
+			</div>
+				<div class="obj_issue_toc" bis_skin_checked="1">
+
+		
+		<div class="heading" bis_skin_checked="1">
+
+						
+				
+				
+							<div class="published" bis_skin_checked="1">
+				<span class="label">
+					Published:
+				</span>
+				<span class="value">
+					2025-09-26
+				</span>
+			</div>
+			</div>
+
+		
+		<div class="sections" bis_skin_checked="1">
+			<div class="section" bis_skin_checked="1">
+									<h3>
+					Articles
+				</h3>
+						<ul class="cmp_article_list articles">
+									<li>
+						
+	
+<div class="obj_article_summary" bis_skin_checked="1">
+	
+	<h4 class="title">
+		<a id="article-701" href="https://www.managementdynamics.ro/index.php/journal/article/view/701">
+			Opportunity Constructs in Innovation Hubs for Start-up Development in India
+					</a>
+	</h4>
+
+				<div class="meta" bis_skin_checked="1">
+				<div class="authors" bis_skin_checked="1">
+			Anandhu VIJAYAKUMAR, Jelena DAVIDOVA
+		</div>
+		
+							<div class="pages" bis_skin_checked="1">
+				229-250
+			</div>
+		
+		
+	</div>
+	
+			<ul class="galleys_links">
+																									<li>
+																										
+	
+							
+
+<a class="obj_galley_link pdf" href="https://www.managementdynamics.ro/index.php/journal/article/view/701/525" aria-labelledby="article-701">
+
+		
+	PDF
+
+	</a>
+				</li>
+					</ul>
+	
+	
+</div>
+					</li>
+									<li>
+						
+	
+<div class="obj_article_summary" bis_skin_checked="1">
+	
+	<h4 class="title">
+		<a id="article-684" href="https://www.managementdynamics.ro/index.php/journal/article/view/684">
+			A Structural Model of the Effect of Decent Work, Job Satisfaction and Organizational Commitment on Employee Creativity 
+					</a>
+	</h4>
+
+				<div class="meta" bis_skin_checked="1">
+				<div class="authors" bis_skin_checked="1">
+			Nhamo MASHAVIRA, Lister CHADA, Selina Bekezela CHIRISA, Samson Adeoluwa ADEWUMI, Crispen CHIPUNZA , Honest MUPANI
+		</div>
+		
+							<div class="pages" bis_skin_checked="1">
+				251-267
+			</div>
+		
+		
+	</div>
+	
+			<ul class="galleys_links">
+																									<li>
+																										
+	
+							
+
+<a class="obj_galley_link pdf" href="https://www.managementdynamics.ro/index.php/journal/article/view/684/526" aria-labelledby="article-684">
+
+		
+	PDF
+
+	</a>
+				</li>
+					</ul>
+	
+	
+</div>
+					</li>
+									<li>
+						
+	
+<div class="obj_article_summary" bis_skin_checked="1">
+	
+	<h4 class="title">
+		<a id="article-699" href="https://www.managementdynamics.ro/index.php/journal/article/view/699">
+			Technological Innovations and Employees’ Employability Development Challenges in Mauritius. The Mediating Effect of Career Anchors
+					</a>
+	</h4>
+
+				<div class="meta" bis_skin_checked="1">
+				<div class="authors" bis_skin_checked="1">
+			Kossi Essemou-Abale ASSOGBAVI, Eric BINDAH, Rajendra Parsad GUNPUTH
+		</div>
+		
+							<div class="pages" bis_skin_checked="1">
+				268-282
+			</div>
+		
+		
+	</div>
+	
+			<ul class="galleys_links">
+																									<li>
+																										
+	
+							
+
+<a class="obj_galley_link pdf" href="https://www.managementdynamics.ro/index.php/journal/article/view/699/527" aria-labelledby="article-699">
+
+		
+	PDF
+
+	</a>
+				</li>
+					</ul>
+	
+	
+</div>
+					</li>
+									<li>
+						
+	
+<div class="obj_article_summary" bis_skin_checked="1">
+	
+	<h4 class="title">
+		<a id="article-703" href="https://www.managementdynamics.ro/index.php/journal/article/view/703">
+			Social Commerce and SME Competitiveness in the Fashion Industry: Insights from an Emerging Market
+					</a>
+	</h4>
+
+				<div class="meta" bis_skin_checked="1">
+				<div class="authors" bis_skin_checked="1">
+			Hery GUNAWAN, Paulina Mego LISTIYANI
+		</div>
+		
+							<div class="pages" bis_skin_checked="1">
+				283-300
+			</div>
+		
+		
+	</div>
+	
+			<ul class="galleys_links">
+																									<li>
+																										
+	
+							
+
+<a class="obj_galley_link pdf" href="https://www.managementdynamics.ro/index.php/journal/article/view/703/528" aria-labelledby="article-703">
+
+		
+	PDF
+
+	</a>
+				</li>
+					</ul>
+	
+	
+</div>
+					</li>
+									<li>
+						
+	
+<div class="obj_article_summary" bis_skin_checked="1">
+	
+	<h4 class="title">
+		<a id="article-690" href="https://www.managementdynamics.ro/index.php/journal/article/view/690">
+			Artificial Intelligence and the Reconfiguration of Organizational Communication in the Context of the Knowledge Society
+					</a>
+	</h4>
+
+				<div class="meta" bis_skin_checked="1">
+				<div class="authors" bis_skin_checked="1">
+			Cosmin Sebastian RĂDULESCU
+		</div>
+		
+							<div class="pages" bis_skin_checked="1">
+				301-322
+			</div>
+		
+		
+	</div>
+	
+			<ul class="galleys_links">
+																									<li>
+																										
+	
+							
+
+<a class="obj_galley_link pdf" href="https://www.managementdynamics.ro/index.php/journal/article/view/690/529" aria-labelledby="article-690">
+
+		
+	PDF
+
+	</a>
+				</li>
+					</ul>
+	
+	
+</div>
+					</li>
+									<li>
+						
+	
+<div class="obj_article_summary" bis_skin_checked="1">
+	
+	<h4 class="title">
+		<a id="article-711" href="https://www.managementdynamics.ro/index.php/journal/article/view/711">
+			Workplace Change and Emerging Skills in Post-Pandemic Training Needs Assessment: Evidence from Bangladesh’s Public Sector
+					</a>
+	</h4>
+
+				<div class="meta" bis_skin_checked="1">
+				<div class="authors" bis_skin_checked="1">
+			Amenoor, Md. Monowar Uddin Talukdar TALUKDAR
+		</div>
+		
+							<div class="pages" bis_skin_checked="1">
+				323-339
+			</div>
+		
+		
+	</div>
+	
+			<ul class="galleys_links">
+																									<li>
+																										
+	
+							
+
+<a class="obj_galley_link pdf" href="https://www.managementdynamics.ro/index.php/journal/article/view/711/530" aria-labelledby="article-711">
+
+		
+	PDF
+
+	</a>
+				</li>
+					</ul>
+	
+	
+</div>
+					</li>
+							</ul>
+				</div>
+		</div><!-- .sections -->
+</div>
+			<a href="https://www.managementdynamics.ro/index.php/journal/issue/archive" class="read_more">
+				View All Issues
+			</a>
+		</section>
+	
+		</div><!-- .page -->
+
+	</div><!-- pkp_structure_main -->
+
+									<div class="pkp_structure_sidebar left" role="complementary" aria-label="Sidebar" bis_skin_checked="1">
+				<div class="pkp_block block_information" bis_skin_checked="1">
+	<h2 class="title">Information</h2>
+	<div class="content" bis_skin_checked="1">
+		<ul>
+							<li>
+					<a href="https://www.managementdynamics.ro/index.php/journal/information/readers">
+						For Readers
+					</a>
+				</li>
+										<li>
+					<a href="https://www.managementdynamics.ro/index.php/journal/information/authors">
+						For Authors
+					</a>
+				</li>
+										<li>
+					<a href="https://www.managementdynamics.ro/index.php/journal/information/librarians">
+						For Librarians
+					</a>
+				</li>
+					</ul>
+	</div>
+</div>
+
+			</div><!-- pkp_sidebar.left -->
+			</div><!-- pkp_structure_content -->
+
+<div class="pkp_structure_footer_wrapper" role="contentinfo" bis_skin_checked="1">
+	<a id="pkp_content_footer"></a>
+
+	<div class="pkp_structure_footer" bis_skin_checked="1">
+
+		
+		<div class="pkp_brand_footer" role="complementary" bis_skin_checked="1">
+			<a href="https://www.managementdynamics.ro/index.php/journal/about/aboutThisPublishingSystem">
+				<img alt="More information about the publishing system, Platform and Workflow by OJS/PKP." src="https://www.managementdynamics.ro/templates/images/ojs_brand.png">
+			</a>
+		</div>
+	</div>
+</div><!-- pkp_structure_footer_wrapper -->
+
+</div><!-- pkp_structure_page -->
+
+<script src="https://www.managementdynamics.ro/lib/pkp/lib/vendor/components/jquery/jquery.js?v=3.3.0.19" type="text/javascript"></script><script src="https://www.managementdynamics.ro/lib/pkp/lib/vendor/components/jqueryui/jquery-ui.js?v=3.3.0.19" type="text/javascript"></script><script src="https://www.managementdynamics.ro/plugins/themes/default/js/lib/popper/popper.js?v=3.3.0.19" type="text/javascript"></script><script src="https://www.managementdynamics.ro/plugins/themes/default/js/lib/bootstrap/util.js?v=3.3.0.19" type="text/javascript"></script><script src="https://www.managementdynamics.ro/plugins/themes/default/js/lib/bootstrap/dropdown.js?v=3.3.0.19" type="text/javascript"></script><script src="https://www.managementdynamics.ro/plugins/themes/default/js/main.js?v=3.3.0.19" type="text/javascript"></script><script type="text/javascript">
+(function (w, d, s, l, i) { w[l] = w[l] || []; var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
+j.src = 'https://www.googletagmanager.com/gtag/js?id=' + i + dl; f.parentNode.insertBefore(j, f); 
+function gtag(){dataLayer.push(arguments)}; gtag('js', new Date()); gtag('config', i); })
+(window, document, 'script', 'dataLayer', 'UA-45930669-1');
+</script>
+
+
+<script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;05ad04ebfbbc4e13832f64c36323a936&quot;,&quot;r&quot;:1,&quot;server_timing&quot;:{&quot;name&quot;:{&quot;cfCacheStatus&quot;:true,&quot;cfEdge&quot;:true,&quot;cfExtPri&quot;:true,&quot;cfL4&quot;:true,&quot;cfOrigin&quot;:true,&quot;cfSpeedBrain&quot;:true},&quot;location_startswith&quot;:null}}" crossorigin="anonymous"></script>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9a41d6c67d31337f',t:'MTc2NDA4MDk3Mw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><iframe height="1" width="1" style="position: absolute; top: 0px; left: 0px; border: none; visibility: hidden;"></iframe>
+
+<xvs-hxkvkvytcehe></xvs-hxkvkvytcehe></body></html>
